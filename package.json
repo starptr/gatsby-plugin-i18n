@@ -4,6 +4,7 @@
     "test": "lerna run test && codecov"
   },
   "version": "1.0.2",
+  "name": "gatsby-plugin-i18n",
   "devDependencies": {
     "codecov": "^3.0.0",
     "lerna": "^2.5.1"
